@@ -5,6 +5,9 @@ This tool is designed to help you practice numbers in foreign languages.
 This script is built based on my finding on nice google translate API
 https://translate.google.com/translate_tts?ie=UTF-8&tl=nl&client=tw-ob&q=acht
 
+[Listening module](https://raw.githubusercontent.com/timkrysta/just-learn-numbers/main/listening-module.gif)
+[Speaking module](https://raw.githubusercontent.com/timkrysta/just-learn-numbers/main/speaking-module.gif)
+
 ### Installation
 
 To install the dependencies, run:
