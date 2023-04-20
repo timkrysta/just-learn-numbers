@@ -1,11 +1,19 @@
 # Foreign Language Number Trainer
 
-This tool is designed to help you practice numbers in foreign languages.
+This terminal app is designed to help you practice numbers in foreign languages. It uses Google Text To Speech API.
 
-This script is built based on my finding on nice google translate API
-https://translate.google.com/translate_tts?ie=UTF-8&tl=nl&client=tw-ob&q=acht
+Below demos are just GIFs without sound!
+
+## Listening Module
+
+It let's hear a number from a range and type what you heard to check if you understood correctly.
 
 ![Listening module](https://raw.githubusercontent.com/timkrysta/just-learn-numbers/main/listening-module.gif)
+
+## Speaking Module
+
+It gives a random number from a range and you have to say it out loud on your own. Type `c` to check hear the correct pronunciation.
+
 ![Speaking module](https://raw.githubusercontent.com/timkrysta/just-learn-numbers/main/speaking-module.gif)
 
 ### Installation
